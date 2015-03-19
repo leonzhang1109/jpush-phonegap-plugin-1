@@ -18,7 +18,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import java.util.Map.Entry;
-
+import org.hotshare.everywhere.R;
 //import your.package.name.R;
 
 import cn.jpush.android.api.BasicPushNotificationBuilder;
